@@ -23,5 +23,5 @@ def convert_png_to_tif(folder_path):
 
 
 # Example usage
-folder_path = '/content/gdrive/MyDrive/nnunetv2/nnUNet_raw/Dataset001_3dlabels'  # Replace with your folder path
+folder_path = '/content/gdrive/MyDrive/nnUNetv2/nnUNet_raw/Dataset001_3dlabels'  # Replace with your folder path
 convert_png_to_tif(folder_path)
